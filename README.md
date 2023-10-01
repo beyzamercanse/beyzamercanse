@@ -1,4 +1,4 @@
-# Welcome to [Beyza Mercan]'s GitHub Repository
+# Welcome to Beyza Mercan's GitHub Repository
 
 Hello, fellow developers and tech enthusiasts! 👋 I'm Beyza, and I'm passionate about C++, Python software development, machine learning and data science. This is my GitHub repository, where you'll find a collection of projects and code that reflect my journey in the vast world of technology.
 
