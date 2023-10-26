@@ -4,7 +4,6 @@ Hello, fellow developers and tech enthusiasts! 👋 I'm Beyza, and I'm passionat
 
 ## About Me
 
-- 💻 I'm currently working as a software developer.
 - 🌱 I'm constantly learning and exploring new technologies to enhance my skills.
 - 🚀 I enjoy tackling challenges and turning innovative ideas into reality.
 
